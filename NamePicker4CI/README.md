@@ -9,7 +9,7 @@ NamePicker与ClassIsland联动插件
 
 需要配合[NamePicker](https://github.com/NamePickerOrg/NamePicker)使用
 
-PS：NamePicker版本需要大于1.0.1dev，并且在配置中启用Class Widgets联动功能
+PS：NamePicker版本需要大于1.0.1dev，并且在配置中启用ClassIsland联动功能
 
 ### 特性
 
