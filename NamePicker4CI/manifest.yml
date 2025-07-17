@@ -7,6 +7,6 @@ name: NamePicker4CI
 description: NamePicker x ClassIsland联动插件
 entranceAssembly: "NamePicker4CI.dll"
 url: https://github.com/NamePickerOrg/NamePicker4CI
-version: 0.0.0.1
-apiVersion: 1.5.0
+version: 0.0.0.2
+apiVersion: 1.7.0.1
 author: lhgser

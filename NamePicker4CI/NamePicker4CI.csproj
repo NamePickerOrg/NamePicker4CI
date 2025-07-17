@@ -14,7 +14,7 @@
 	</PropertyGroup>
 
 	<ItemGroup>
-		<PackageReference Include="ClassIsland.PluginSdk" Version="$(ClassIslandPluginSdkVersion)">
+		<PackageReference Include="ClassIsland.PluginSdk" Version="1.7.0.1">
 			<ExcludeAssets>runtime; native</ExcludeAssets>
 		</PackageReference>
 	</ItemGroup>
